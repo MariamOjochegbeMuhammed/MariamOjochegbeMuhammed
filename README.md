@@ -1,5 +1,7 @@
- Hi there 👋  I am Mariam
-I am trained in Excel and Power BI for Data analysis. I am a Data Analyst who understands the basics and application of tools such as Power BI and SQL for research, business and health analysis. I help businesses, organisations and individuals solve problems and gain insights with data.
+                       Hi there 👋  
+              
+I am Mariam Muhammed. A Data Analyst.
+I am trained in Excel and Power BI for Data analysis. I am an Analyst who understands the basics and application of tools such as Excel, Power BI and SQL for research, business and health analysis. I help businesses, organisations and individuals solve problems and gain insights with data.
 
 - 🔭 I’m currently working on Data Analysis projects
 - 🌱 I’m currently learning Data Science with AI and ML
