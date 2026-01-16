@@ -10,4 +10,4 @@ I am trained in Excel and Power BI for Data analysis. I am an Analyst who unders
 - 💬 Ask me about Excel, Power BI and SQL
 - 📫 How to reach me: mariamojochegbe@gmail.com
 - ⚡ Fun fact: I am fascinated by flowers
-
+- Connect with me on LINKEDIN: https://www.linkedin.com/in/mariam-muhammed/
